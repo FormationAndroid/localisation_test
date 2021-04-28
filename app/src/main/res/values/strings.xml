@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyLocalisation</string>
+    <string name="save_location_to_firestore">Save location to Firestore</string>
+</resources>
